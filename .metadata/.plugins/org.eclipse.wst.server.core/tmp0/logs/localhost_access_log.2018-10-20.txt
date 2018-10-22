@@ -1,0 +1,7 @@
+0:0:0:0:0:0:0:1 - - [20/Oct/2018:02:09:55 -0500] "GET /SpecialMoments/hello HTTP/1.1" 200 3363
+0:0:0:0:0:0:0:1 - - [20/Oct/2018:02:09:55 -0500] "GET /SpecialMoments/css/home.css HTTP/1.1" 200 327
+0:0:0:0:0:0:0:1 - - [20/Oct/2018:02:09:55 -0500] "GET /SpecialMoments/css/nav.css HTTP/1.1" 200 1608
+0:0:0:0:0:0:0:1 - - [20/Oct/2018:02:09:55 -0500] "GET /SpecialMoments/css/login.css HTTP/1.1" 200 14697
+0:0:0:0:0:0:0:1 - - [20/Oct/2018:02:09:55 -0500] "GET /SpecialMoments/images/IndiaNoah.jpg HTTP/1.1" 200 164986
+0:0:0:0:0:0:0:1 - - [20/Oct/2018:02:09:55 -0500] "GET /SpecialMoments/css/site.css HTTP/1.1" 200 684
+0:0:0:0:0:0:0:1 - - [20/Oct/2018:02:09:59 -0500] "GET /SpecialMoments/hello HTTP/1.1" 200 3363

@@ -1,0 +1,12 @@
+package com.special.moments.daycare;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class SpecialMomentsApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(SpecialMomentsApplication.class, args);
+	}
+}

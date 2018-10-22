@@ -1,0 +1,5 @@
+package com.special.moments.daycare.controllers;
+
+public class LoginController {
+
+}
